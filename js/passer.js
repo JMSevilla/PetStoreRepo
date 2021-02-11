@@ -1,0 +1,1 @@
+document.getElementById("loginnamedetect").innerText = localStorage.getItem('firstname');
