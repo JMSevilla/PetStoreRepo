@@ -11,6 +11,6 @@ PHP Data Object
 <ul>
 <li>Clone this repository</li>
 <li>Transfer this project to C:/xamp/htdocs</li>
-<li>Find 'database folder' import in phpmyadmin</li>
+<li>Open 'database folder' Find 'dbprojectzero.sql' then import in phpmyadmin</li>
 </ul>
 
